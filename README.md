@@ -18,7 +18,10 @@ Full stack blockchain developer @ SecureKloud technologies
 <img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
 
 ### Blockchain technologies i worked with
-<img width="50" height="50" src="https://img.icons8.com/color/48/ethereum.png" alt="ethereum"/>
-<img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOuCLRU55P-obXZsnbW3_toaZhl_7d9-Ni9kzD-IpEiVtZTX0u88z1S_0gVFyFj_AhJkw&usqp=CAU" alt="ethereum"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/ethereum.png" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOuCLRU55P-obXZsnbW3_toaZhl_7d9-Ni9kzD-IpEiVtZTX0u88z1S_0gVFyFj_AhJkw&usqp=CAU" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtFp3tinIU7AAklqMTKDcU2rrFr0Hd62Rsw&s" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWaZmFNRNoaRtlqAHsfZFg7xNPqi9FboeDw&s" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR22xwKfybck65c8yeZMcVOOrW6Km5kkz4jY0J-q2fmEZTlox2kKCGJJ0QhK_Lwgw_Epg&usqp=CAU" alt="ethereum"/>
+
+
+
+
 
 
