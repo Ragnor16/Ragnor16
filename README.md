@@ -1,7 +1,7 @@
 ## Hi from diwa 👋
 
 Full stack blockchain developer @ SecureKloud technologies
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                             
+<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/1bb4082ef0cdda23c13c5d38c4be0cf2f3d1b6d31c6474a38c193e148c3d1a86/68747470733a2f2f7777772e746563686e6f6c6f616465722e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30372f486972652d612d426c6f636b636861696e2d446576656c6f7065722e676966">                             
 - 🌱 I’m currently learning Data Science and AI
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements
