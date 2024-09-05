@@ -1,7 +1,7 @@
 ## Hi from diwa 👋
 
 Full stack blockchain developer @ SecureKloud technologies
-<img align="right" width="370" height="290" src="https://www.infiniteblocktech.com/img/home/home_01.gif">                             
+<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcorebitweb.com%2Fblockchain-development%2F&psig=AOvVaw3RIJgtSjtiMRq3-zjDlTdY&ust=1725618593941000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDZ_7jMq4gDFQAAAAAdAAAAABAE">                             
 - 🌱 I’m currently learning Data Science and AI
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements
