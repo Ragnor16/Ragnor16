@@ -1,6 +1,6 @@
 ## Hi from diwa 👋
 
-Full stack blockchain developer @ SecureKloud technologies
+Blockchain and Devops Engineer @ SecureKloud technologies
 <img align="right" width="370" height="290" src="https://coindeveloperindia.com/blog/wp-content/uploads/2019/10/Cryptodevelopment.gif">                             
 - 🌱 I’m currently learning Data Science and AI
 - 👯 I’m looking to collaborate on ML/AI
@@ -15,7 +15,7 @@ Full stack blockchain developer @ SecureKloud technologies
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ### Cloud technologies i worked with
-<img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/><img width="50" height="50" src="https://www.google.com/imgres?q=gcp%20logo%20in%20icons8&imgurl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F512%2Fgoogle-cloud.png&imgrefurl=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fgoogle-cloud&docid=jZqoN3gyRnwa4M&tbnid=rBZVLFiM_4xfOM&vet=12ahUKEwiMpe7M7JuOAxVCzTgGHWM6IAsQM3oECBgQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiMpe7M7JuOAxVCzTgGHWM6IAsQM3oECBgQAA" alt="kubernetes"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/48/kubernetes.png" alt="kubernetes"/>
 
 ### Blockchain technologies i worked with
 <img width="50" height="50" src="https://img.icons8.com/color/48/ethereum.png" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOuCLRU55P-obXZsnbW3_toaZhl_7d9-Ni9kzD-IpEiVtZTX0u88z1S_0gVFyFj_AhJkw&usqp=CAU" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtFp3tinIU7AAklqMTKDcU2rrFr0Hd62Rsw&s" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWaZmFNRNoaRtlqAHsfZFg7xNPqi9FboeDw&s" alt="ethereum"/> <img width="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR22xwKfybck65c8yeZMcVOOrW6Km5kkz4jY0J-q2fmEZTlox2kKCGJJ0QhK_Lwgw_Epg&usqp=CAU" alt="ethereum"/>
